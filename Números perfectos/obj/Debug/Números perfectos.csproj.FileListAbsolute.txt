@@ -1,0 +1,12 @@
+E:\Facu\4to semestre\Estructura de Datos\Números perfectos\Números perfectos\bin\Debug\Números perfectos.exe.config
+E:\Facu\4to semestre\Estructura de Datos\Números perfectos\Números perfectos\bin\Debug\Números perfectos.exe
+E:\Facu\4to semestre\Estructura de Datos\Números perfectos\Números perfectos\bin\Debug\Números perfectos.pdb
+E:\Facu\4to semestre\Estructura de Datos\Números perfectos\Números perfectos\obj\Debug\Números perfectos.csprojResolveAssemblyReference.cache
+E:\Facu\4to semestre\Estructura de Datos\Números perfectos\Números perfectos\obj\Debug\Números_perfectos.Form1.resources
+E:\Facu\4to semestre\Estructura de Datos\Números perfectos\Números perfectos\obj\Debug\Números_perfectos.Properties.Resources.resources
+E:\Facu\4to semestre\Estructura de Datos\Números perfectos\Números perfectos\obj\Debug\Números perfectos.csproj.GenerateResource.Cache
+E:\Facu\4to semestre\Estructura de Datos\Números perfectos\Números perfectos\obj\Debug\Números perfectos.exe
+E:\Facu\4to semestre\Estructura de Datos\Números perfectos\Números perfectos\obj\Debug\Números perfectos.pdb
+D:\Facu\4to semestre\Estructura de Datos\Ejercicios en clase\1. Números perfectos\Números perfectos\bin\Debug\Números perfectos.exe.config
+D:\Facu\4to semestre\Estructura de Datos\Ejercicios en clase\1. Números perfectos\Números perfectos\obj\Debug\Números perfectos.exe
+D:\Facu\4to semestre\Estructura de Datos\Ejercicios en clase\1. Números perfectos\Números perfectos\obj\Debug\Números perfectos.pdb
